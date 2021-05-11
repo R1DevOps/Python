@@ -1,3 +1,7 @@
+def print(param):
+    pass
+
+
 print("test")
 class hi:
     def __init__(self, name, age):
