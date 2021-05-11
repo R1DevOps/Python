@@ -1,4 +1,4 @@
-def print(param):
+def prixnt(param):
     pass
 
 
