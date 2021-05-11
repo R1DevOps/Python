@@ -1,9 +1,9 @@
-def prixnt(param):
+def print(param):
     pass
 
 
 
-prihhnt("test")
+print("test")
 class hi:
     def __init__(self, name, age):
         self.name = name
