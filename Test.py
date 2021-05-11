@@ -3,7 +3,7 @@ def prixnt(param):
 
 
 
-print("test")
+prihhnt("test")
 class hi:
     def __init__(self, name, age):
         self.name = name
